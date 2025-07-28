@@ -77,7 +77,7 @@ No cloning or reuse of this repository is permitted. This download is offered fo
 
 ## 📷 Screenshots
 
-
+![SS_1](https://github.com/user-attachments/assets/8dfe119c-3c92-455b-8403-3d02d534efbb)  ![SS_2](https://github.com/user-attachments/assets/382df884-1e98-4df7-bb32-d932c4e01d20)
 
 ---
 
@@ -101,13 +101,6 @@ This repository is intended solely for the purpose of **publicly demonstrating m
 
 This GitHub repository is private intellectual property.
 It is not licensed under MIT, Apache, GPL, or any permissive license.
-
----
-
-### 🙏 Thank You
-
-Thanks for exploring my app!
-Please respect the hard work and refrain from copying or misusing any part of this project.
 
 ---
 
