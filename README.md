@@ -1,4 +1,4 @@
-<img width="137" height="137" alt="Screenshot 2025-07-28 210059" src="https://github.com/user-attachments/assets/a7dd3933-e154-45ec-a91c-34f9859dde71" /># 🧑‍💻 Pulkit Gahlot's Hacker-Themed Portfolio App
+# 🧑‍💻 Pulkit Gahlot's Hacker-Themed Portfolio App
 
 Welcome to the official repository of my **developer portfolio**, built with `Flutter` and inspired by a hacker-themed Linux terminal interface. This app showcases my journey, skills, experiences, and projects across Cybersecurity, Red Teaming, Flutter, Python, and more.
 
@@ -69,6 +69,7 @@ Download my protfolio app from the direct link below.
 [Pulkit Gahlot Portfolio App](https://clikn.in/uGUPE1e)
 
 or by scanning the QR Code provided:
+
 <img width="300" height="300" alt="Screenshot 2025-07-28 210059" src="https://github.com/user-attachments/assets/fb93aedf-35a9-4d7b-8856-50f8200e6fc2" />
 
 
